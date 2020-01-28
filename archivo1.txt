@@ -1,1 +1,0 @@
-Este es mi primer commit, el repositorio se va a usar para crear ramas y usar efectivamente git
